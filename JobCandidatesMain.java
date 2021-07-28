@@ -1,5 +1,3 @@
-package com.bham.pij.assignments.candidates;
-
 //Munir Suleman 1348560
 
 public class JobCandidatesMain {
