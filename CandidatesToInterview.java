@@ -1,6 +1,4 @@
-package com.bham.pij.assignments.candidates;
-
-//Munir Suleman 1348560
+//Munir Suleman
 
 import java.nio.file.*;
 import java.util.*;
